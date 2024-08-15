@@ -82,15 +82,15 @@ const questions = [
         explanation: "Age, nutrition, and genetics all play significant roles in antler growth. The moon phase does not directly influence antler development."
     },
     {
-        question: "What is the term for a deer's bed or resting place?",
+        question: "What is the term for a deer's resting place?",
         choices: [
             "Nest",
             "Lair",
-            "Form",
+            "Bed",
             "Den"
         ],
         correctAnswer: 2,
-        explanation: "A deer's bed or resting place is called a form. It's typically a shallow depression in grass or leaves where the deer lies down."
+        explanation: "A deer's resting place is called a bed. It's typically a shallow depression in grass or leaves where the deer lies down."
     },
     {
         question: "How often do whitetail bucks typically shed their antlers?",
@@ -151,7 +151,7 @@ const questions = [
         question: "What is the primary reason for a buck's antlers?",
         choices: [
             "Defense against predators",
-            "Attracting mates",
+            "Mating competition",
             "Foraging for food",
             "Regulating body temperature"
         ],
@@ -192,7 +192,7 @@ const questions = [
         explanation: "While whitetail deer are adaptable and can be found in various habitats, desert scrublands are not a common habitat. They prefer areas with a mix of forest and open land."
     },
     {
-        question: "What is the process of a buck rubbing its antlers on trees called?",
+        question: "What is the process of a buck raking its antlers on trees called?",
         choices: [
             "Shedding",
             "Polishing",
